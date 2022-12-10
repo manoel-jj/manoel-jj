@@ -1,16 +1,19 @@
-### Hi there 👋
+### óla, sou o Manoel 👋
 
-<!--
-**manoel-jj/manoel-jj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+####Sobre o Manoel
 
-Here are some ideas to get you started:
+Possuo carreira em evolução na área de programação, sempre sendo flexível e aprendendo metodologias novas para me aprimorar.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###Habilidades
+
+![Html]
+![Css]
+![sass]
+![Javascript]
+
+
+### Detalhes
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoel-jj&show_icons=true&theme=radical)
+
+
