@@ -1,5 +1,4 @@
 ### Óla, sou o Manoel 👋 Possuo carreira em evolução na área de programação, sempre sendo flexível e aprendendo metodologias novas para me aprimorar!
-
 ##
 
 <div style="display: inline_block"><br>
@@ -19,6 +18,7 @@
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+  ##
 
 
 ### Principais Projetos
