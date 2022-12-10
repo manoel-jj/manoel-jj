@@ -30,5 +30,5 @@ Possuo carreira em evolução na área de programação, sempre sendo flexível 
 
 ### Contatos
 
-![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[<Img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height = '30'>]
 
