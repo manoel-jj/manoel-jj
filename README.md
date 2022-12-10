@@ -30,5 +30,5 @@ Possuo carreira em evolução na área de programação, sempre sendo flexível 
 
 ### Contatos
 
-[<Img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height = '30'>]
+[<Img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height = '30'>](https://www.linkedin.com/in/manoel-jj)
 
