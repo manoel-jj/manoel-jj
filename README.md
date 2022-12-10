@@ -1,8 +1,12 @@
-### óla, sou o Manoel 👋
+### Óla, sou o Manoel 👋 Possuo carreira em evolução na área de programação, sempre sendo flexível e aprendendo metodologias novas para me aprimorar!
 
-### Sobre o Manoel
+<div align="center">
+  <a href="https://github.com/manoel-jj">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=manoel-jj&show_icons=true&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoel-jj&layout=compact&langs_count=7&theme=dracula"/>
+ </div>
 
-Possuo carreira em evolução na área de programação, sempre sendo flexível e aprendendo metodologias novas para me aprimorar.
+
 
 ### Habilidades
 
@@ -15,20 +19,11 @@ Possuo carreira em evolução na área de programação, sempre sendo flexível 
 ![Jquery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 
-
-### Detalhes
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoel-jj&show_icons=true&theme=dracula)
-
-### Projetos
+### Principais Projetos
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoel-jj&repo=clone_disneyplus-)](https://github.com/manoel-jj/clone_disneyplus-)
 
-### Principais Linguagens 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoel-jj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-### Rede Social
+### Contato
 
 <div>
  <a href = "https://www.linkedin.com/in/manoel-jj"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
