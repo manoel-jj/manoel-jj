@@ -1,6 +1,6 @@
 ### óla, sou o Manoel 👋
 
-#### Sobre o Manoel
+### Sobre o Manoel
 
 Possuo carreira em evolução na área de programação, sempre sendo flexível e aprendendo metodologias novas para me aprimorar.
 
@@ -20,8 +20,11 @@ Possuo carreira em evolução na área de programação, sempre sendo flexível 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoel-jj&repo=clone_disneyplus-)](https://github.com/manoel-jj/clone_disneyplus-)
 
-### principais Linguagens 
+### Principais Linguagens 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoel-jj)](https://github.com/anuraghazra/github-readme-stats)
 
+### Contatos
+
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt'linkedin' height='30'>](www.linkedin.com/in/manoel-jj)
 
