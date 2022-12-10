@@ -18,7 +18,7 @@ Possuo carreira em evolução na área de programação, sempre sendo flexível 
 
 ### Detalhes
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoel-jj&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=manoel-jj&show_icons=true&theme=dracula)
 
 ### Projetos
 
@@ -26,7 +26,7 @@ Possuo carreira em evolução na área de programação, sempre sendo flexível 
 
 ### Principais Linguagens 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoel-jj)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoel-jj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Contatos
 
