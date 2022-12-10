@@ -20,4 +20,8 @@ Possuo carreira em evolução na área de programação, sempre sendo flexível 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoel-jj&repo=clone_disneyplus-)](https://github.com/manoel-jj/clone_disneyplus-)
 
+### principais Linguagens 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoel-jj)](https://github.com/anuraghazra/github-readme-stats)
+
 
