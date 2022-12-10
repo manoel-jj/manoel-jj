@@ -1,10 +1,10 @@
 ### óla, sou o Manoel 👋
 
-####Sobre o Manoel
+#### Sobre o Manoel
 
 Possuo carreira em evolução na área de programação, sempre sendo flexível e aprendendo metodologias novas para me aprimorar.
 
-###Habilidades
+### Habilidades
 
 ![Html]
 ![Css]
