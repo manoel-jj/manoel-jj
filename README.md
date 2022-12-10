@@ -1,4 +1,4 @@
-### Óla, sou o Manoel 👋 Possuo carreira em evolução na área de programação, sempre sendo flexível e aprendendo metodologias novas para me aprimorar!
+### Óla, sou o Manoel 👋 Possuo carreira em evolução na área de programação, sempre sendo flexível e aprendendo metodologias novas para me aprimorar!<br>
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/manoel-jj">
