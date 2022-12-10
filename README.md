@@ -28,10 +28,11 @@ Possuo carreira em evolução na área de programação, sempre sendo flexível 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manoel-jj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-### Contatos
+### Rede Social
 
 [<Img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='Linkedin' height = '30'>](https://www.linkedin.com/in/manoel-jj)
-[<Img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' alt='GMAIL' height = '30'>]
-(https://is.gd/manoel79)  
+  
+
+  
 
 
