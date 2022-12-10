@@ -36,7 +36,7 @@ Possuo carreira em evolução na área de programação, sempre sendo flexível 
   </div>
   
   
-
+![snake gif](https://github.com/manoel-jj/manoel-jj/blob/output/github-contribution-grid-snake.svg)
   
 
 
