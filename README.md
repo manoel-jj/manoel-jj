@@ -18,6 +18,6 @@ Possuo carreira em evolução na área de programação, sempre sendo flexível 
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoel-jj&repo=clone_disneyplus-)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoel-jj&repo=clone_disneyplus-)](https://github.com/manoel-jj/clone_disneyplus-)
 
 
