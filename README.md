@@ -23,7 +23,7 @@
 
 ### Principais Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoel-jj&repo=clone_disneyplus-)](https://github.com/manoel-jj/clone_disneyplus-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoel-jj&repo=clone_disneyplus-&theme=dracula)](https://github.com/manoel-jj/clone_disneyplus-)
 
 ### Contato
 
