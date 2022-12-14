@@ -3,7 +3,7 @@
 
 <div style="display: inline_block"><br>
   <a href="https://github.com/manoel-jj">
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=manoel-jj&show_icons=true&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=manoel-jj&show_icons=true&theme=cobalt"/>
 <img height="150em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=manoel-jj&layout=compact&langs_count=7&theme=dracula"/>
  </div>
 
@@ -23,7 +23,7 @@
 
 ### Principais Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoel-jj&repo=clone_disneyplus-&theme=dracula)](https://github.com/manoel-jj/clone_disneyplus-)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=manoel-jj&repo=clone_disneyplus-&theme=cobalt)](https://github.com/manoel-jj/clone_disneyplus-)
 
 ### Contato
 
